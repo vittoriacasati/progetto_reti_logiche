@@ -1,0 +1,1 @@
+create_clock -period 20.000 -name sys_clk_pin -waveform {0.000 10.000} [get_ports CLK]
